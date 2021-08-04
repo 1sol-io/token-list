@@ -1,0 +1,29 @@
+[
+	{
+		"chainId": 103,
+		"address": "5azeSwbaWZhwzTs93t43NUDj4YxZFpULU7Je7BNWNhTe",
+		"deprecated": false,
+		"name": "SOL/AJN",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "BXKRSpcEt6LKv5N1MgriW4v5bCy4JSSU51AD5xNyizGo",
+		"deprecated": false,
+		"name": "SOL/GYZ",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "DGWCn54n4CU4G539DrgNoLv1c9yCGDM5jQ7F2jLKoVum",
+		"deprecated": false,
+		"name": "AJN/GYZ",
+		"mintA": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
+		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	}
+]

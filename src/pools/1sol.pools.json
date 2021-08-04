@@ -1,0 +1,29 @@
+[
+	{
+		"chianId": 103,
+		"address": "2Zzh3VH5T3smrkp4BtKFtszN3Mt7aAr6bUy6LQVc8ZKi",
+		"deprecated": false,
+		"name": "SOL/AJN",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chianId": 103,
+		"address": "B1PZwreBKn9ytvCr1q4U9dVNXkiFBRe5XSnF1smqoFv3",
+		"deprecated": false,
+		"name": "SOL/GYZ",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chianId": 103,
+		"address": "2ToWx7UVvoEdQ8QV5Hu923k3dJbR2gNVyyxPBgehyYqe",
+		"deprecated": false,
+		"name": "AJN/GYZ",
+		"mintA": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
+		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	}
+]

@@ -1,22 +1,19 @@
 # @onesol/spl-token-registry
 
-[![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/solana-labs/token-list/blob/b3fa86b3fdd9c817139e38641d46c5a892542a52/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)](https://github.com/1sol-io/token-list/blob/main/LICENSE)
 
 Solana Token Registry is a package that allows application to query for list of tokens.
 The JSON schema for the tokens includes: chainId, address, name, decimals, symbol, logoURI (optional), tags (optional), and custom extensions metadata.
 
-## Installation
-
-```bash
-npm install @onesol/spl-token-registry
-```
-
-```bash
-yarn add @onesol/spl-token-registry
-```
 
 ## TokenList json URL
 [https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/tokens/solana.tokenlist.json](https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/tokens/solana.tokenlist.json)
+
+## TokenSwap Pools json URL
+[https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/pools/1sol.pools.json](https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/pools/1sol.pools.json)
+
+## SerumDex Markets json URL
+[https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/markets/1sol.markets.json](https://cdn.jsdelivr.net/gh/1sol-io/token-list@main/src/markets/1sol.markets.json)
 
 ## Examples
 
@@ -56,11 +53,3 @@ export const Icon = (props: { mint: string }) => {
   return (<img src={token.logoURI} />);
 
 ```
-
-## Adding new token
-
-Submit PR with changes to JSON file `src/tokens/solana.tokenlist.json`
-
-Please follow the Uniswap Token List specification found here: https://github.com/Uniswap/token-lists
-
-

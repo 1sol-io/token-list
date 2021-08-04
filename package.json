@@ -39,7 +39,9 @@
     "reset-hard": "git clean -dfx && git reset --hard && npm i",
     "prepare-release": "run-s reset-hard test cov:check doc:html version doc:publish",
     "purge:cdn": "run-s purge:cdn:*",
-    "purge:cdn:solana": "npx req https://purge.jsdelivr.net/gh/1sol-io/token-list@main/src/tokens/solana.tokenlist.json"
+    "purge:cdn:tokenlist": "npx req https://purge.jsdelivr.net/gh/1sol-io/token-list@main/src/tokens/solana.tokenlist.json",
+    "purge:cdn:pools": "npx req https://purge.jsdelivr.net/gh/1sol-io/token-list@main/src/pools/1sol.pools.json",
+    "purge:cdn:market": "npx req https://purge.jsdelivr.net/gh/1sol-io/token-list@main/src/markets/1sol.markets.json"
   },
   "engines": {
     "node": ">=10"
@@ -67,7 +69,7 @@
     "prettier": "^2.1.1",
     "req": "^0.1.4",
     "standard-version": "^9.1.1",
-    "ts-node": "^9.0.0",
+    "ts-node": "^10.1.0",
     "typedoc": "^0.19.0",
     "typescript": "^4.0.2"
   },
