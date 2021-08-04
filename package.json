@@ -44,7 +44,7 @@
     "purge:cdn:market": "npx req https://purge.jsdelivr.net/gh/1sol-io/token-list@main/src/markets/1sol.markets.json"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=16"
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
