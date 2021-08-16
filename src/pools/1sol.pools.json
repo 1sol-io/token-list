@@ -1,7 +1,7 @@
 [
 	{
 		"chianId": 103,
-		"address": "2Zzh3VH5T3smrkp4BtKFtszN3Mt7aAr6bUy6LQVc8ZKi",
+		"address": "Cx3qkchm7iDyHyY7gd3sRJm17cTYdBiUsaPii6tGVUpD",
 		"deprecated": false,
 		"name": "SOL/AJN",
 		"mintA": "So11111111111111111111111111111111111111112",
@@ -10,7 +10,7 @@
 	},
 	{
 		"chianId": 103,
-		"address": "B1PZwreBKn9ytvCr1q4U9dVNXkiFBRe5XSnF1smqoFv3",
+		"address": "dKopoLGK1BveM3JsJtwR6msCC4fRN1xzkjcpuf6sCjZ",
 		"deprecated": false,
 		"name": "SOL/GYZ",
 		"mintA": "So11111111111111111111111111111111111111112",
@@ -19,7 +19,7 @@
 	},
 	{
 		"chianId": 103,
-		"address": "2ToWx7UVvoEdQ8QV5Hu923k3dJbR2gNVyyxPBgehyYqe",
+		"address": "4kxKvagMA96pvU4YGQ3h5Y2hQVaQNpx9yphrobQPKyBp",
 		"deprecated": false,
 		"name": "AJN/GYZ",
 		"mintA": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
