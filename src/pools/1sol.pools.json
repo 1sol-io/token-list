@@ -1,6 +1,6 @@
 [
 	{
-		"chianId": 103,
+		"chainId": 103,
 		"address": "Cx3qkchm7iDyHyY7gd3sRJm17cTYdBiUsaPii6tGVUpD",
 		"deprecated": false,
 		"name": "SOL/AJN",
@@ -9,7 +9,7 @@
 		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
 	},
 	{
-		"chianId": 103,
+		"chainId": 103,
 		"address": "dKopoLGK1BveM3JsJtwR6msCC4fRN1xzkjcpuf6sCjZ",
 		"deprecated": false,
 		"name": "SOL/GYZ",
@@ -18,7 +18,7 @@
 		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
 	},
 	{
-		"chianId": 103,
+		"chainId": 103,
 		"address": "4kxKvagMA96pvU4YGQ3h5Y2hQVaQNpx9yphrobQPKyBp",
 		"deprecated": false,
 		"name": "AJN/GYZ",
