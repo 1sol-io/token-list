@@ -25,5 +25,68 @@
 		"mintA": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
 		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
 		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "Ana96s95yZ1ZNhBzid7n1ssp6VoXnj9Aj4JSokTfCQbm",
+		"deprecated": false,
+		"name": "SOL/ETH",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "953Wwaeg2fx1FtgZveFTcyDrJV1WeiC6WErVcJTZgg7d",
+		"deprecated": false,
+		"name": "ETH/USDC",
+		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "EckVVsEs4VsdAjj6xVNMbgaeVuXU7u1QPTLjstV2udNu",
+		"deprecated": false,
+		"name": "BTC/USDC",
+		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "AZPsEFcTzGTT18U1PPfGaXvkF3JuDDpardqdh8hYUd25",
+		"deprecated": false,
+		"name": "BTC/USDT",
+		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "A9bQWyAmQMR3Vg8PJAS6AL6nDp6cxwQMmeWmJyY2kBd",
+		"deprecated": false,
+		"name": "ETH/USDT",
+		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "6boA26wKADcbukageikNRRE8bpUoXPcjssX3McQzXTRu",
+		"deprecated": false,
+		"name": "SOL/USDT",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+	},
+	{
+		"chainId": 103,
+		"address": "CuDRuvUXZf6n2cW78uyKTYSpfGYLUSvASJdw4AKk7knd",
+		"deprecated": false,
+		"name": "SOL/USDC",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
 	}
 ]
