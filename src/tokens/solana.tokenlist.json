@@ -1,7 +1,10 @@
 {
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-  "keywords": ["solana", "spl"],
+  "keywords": [
+    "solana",
+    "spl"
+  ],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -70,6 +73,54 @@
       "name": "Wrapped SOL",
       "decimals": 9,
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
+      "symbol": "BTC",
+      "name": "BTC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+      "symbol": "ETH",
+      "name": "ETH",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/ethereum/info/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+      "symbol": "USDT",
+      "name": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 103,
+      "address": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/CpMah17kQEL2wqyMKt3mZBdTnZbkbfx4nqmQMFDP5vwp/logo.png",
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
