@@ -25,5 +25,68 @@
 		"mintA": "Ajn7SgwGeM4KkMzRhL7An2Zjm6RMC6CmFhCvNnPqJHNk",
 		"mintB": "GYZmzAgAgpZ28wrTReHhNVs3VCn99Vhmc3qsvTrh69Ds",
 		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "8dkPfoATC4p8s9nQnPgjvDQXRWTwZesXM7FGdDGGa9P7",
+		"deprecated": false,
+		"name": "SOL/ETH",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "FGEKEvaUyZBYGdWH3ibXE46ZFB64eLAJXwrs3JAg9P8A",
+		"deprecated": false,
+		"name": "ETH/USDC",
+		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "C7rQ1noZaFEuNYHkpWBkMk5ECeLhMw8xdtQwYoAdeqH8",
+		"deprecated": false,
+		"name": "BTC/USDC",
+		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "5zxD9NBowH6GfcqTSEJhVoT2A1oibTkPGSxXyLuxTXdk",
+		"deprecated": false,
+		"name": "BTC/USDT",
+		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "HgynzW1m7yXrd13DP6JYB15n7HUH4toqLiRy7Dv5JiKP",
+		"deprecated": false,
+		"name": "ETH/USDT",
+		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "9ZMgKjwqKN4MCHzvjCF7Nv3p5Vu12kHxxFn4foHuV69Y",
+		"deprecated": false,
+		"name": "SOL/USDT",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "45V1mBZhYm9uvbR4NyfndAtd79aq5idvrDTLBaMU23wT",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "5BquqygqwYBTAr6cNCPP8NKwwFoGZHf4BtJStFvCyvd",
+		"deprecated": false,
+		"name": "SOL/USDC",
+		"mintA": "So11111111111111111111111111111111111111112",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
 	}
 ]
