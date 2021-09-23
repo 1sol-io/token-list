@@ -28,25 +28,7 @@
 	},
 	{
 		"chainId": 103,
-		"address": "8dkPfoATC4p8s9nQnPgjvDQXRWTwZesXM7FGdDGGa9P7",
-		"deprecated": false,
-		"name": "SOL/ETH",
-		"mintA": "So11111111111111111111111111111111111111112",
-		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
-		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
-	},
-	{
-		"chainId": 103,
-		"address": "FGEKEvaUyZBYGdWH3ibXE46ZFB64eLAJXwrs3JAg9P8A",
-		"deprecated": false,
-		"name": "ETH/USDC",
-		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
-		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
-		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
-	},
-	{
-		"chainId": 103,
-		"address": "C7rQ1noZaFEuNYHkpWBkMk5ECeLhMw8xdtQwYoAdeqH8",
+		"address": "EZ6pwAkjsBcUiwTXWf1y9s5a4LHd2aEYYr3P5D84xfcy",
 		"deprecated": false,
 		"name": "BTC/USDC",
 		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
@@ -55,7 +37,7 @@
 	},
 	{
 		"chainId": 103,
-		"address": "5zxD9NBowH6GfcqTSEJhVoT2A1oibTkPGSxXyLuxTXdk",
+		"address": "CjkkFd1a2yxA6ytyga4wC5gEGMcdiQ73qpUzMNeNoHG6",
 		"deprecated": false,
 		"name": "BTC/USDT",
 		"mintA": "7Kp7rC5m1RqVuTPbAjqi7wSQTY1YpvUTTdzATevw5MY2",
@@ -64,7 +46,16 @@
 	},
 	{
 		"chainId": 103,
-		"address": "HgynzW1m7yXrd13DP6JYB15n7HUH4toqLiRy7Dv5JiKP",
+		"address": "CyzZN77kAcMh5nVByDBzifFhEtk9SU4sHUNKv8S3Eci1",
+		"deprecated": false,
+		"name": "ETH/USDC",
+		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
+		"mintB": "39sGyKn4UArRAhUkK1UkZ3tGfrvyLdsADBh9ABS4shfM",
+		"programId": "DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY"
+	},
+	{
+		"chainId": 103,
+		"address": "6nYQ24Rp1gaG5w6WkozLdqK22bWSek1iGW8nzcNY8p6E",
 		"deprecated": false,
 		"name": "ETH/USDT",
 		"mintA": "5SSQsfqhc1t8WL1i5YNGKjf9YHYPUnABm4zupwv5j83G",
@@ -73,7 +64,7 @@
 	},
 	{
 		"chainId": 103,
-		"address": "9ZMgKjwqKN4MCHzvjCF7Nv3p5Vu12kHxxFn4foHuV69Y",
+		"address": "DMHmttyQk1oUVgwC2ZR7bJLYF289k1TjAyxWRy26abGY",
 		"deprecated": false,
 		"name": "SOL/USDT",
 		"mintA": "So11111111111111111111111111111111111111112",
@@ -82,7 +73,7 @@
 	},
 	{
 		"chainId": 103,
-		"address": "5BquqygqwYBTAr6cNCPP8NKwwFoGZHf4BtJStFvCyvd",
+		"address": "DKFwa7gjQ2sTVgdbPHUsezBZ8uVP3TS3pUcwJD6sEbyk",
 		"deprecated": false,
 		"name": "SOL/USDC",
 		"mintA": "So11111111111111111111111111111111111111112",
