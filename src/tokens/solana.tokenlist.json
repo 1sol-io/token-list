@@ -1,10 +1,7 @@
 {
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-  "keywords": [
-    "solana",
-    "spl"
-  ],
+  "keywords": ["solana", "spl"],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -75,9 +72,7 @@
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "website": "https://www.centre.io/",
         "coingeckoId": "usd-coin",
@@ -91,10 +86,7 @@
       "name": "Investin Protocol",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/iVNcrNE9BRZBC9Aqf753iZiZfbszeAVUoikgT9yvr2a/logo.png",
-      "tags": [
-        "defi",
-        "fund-management"
-      ],
+      "tags": ["defi", "fund-management"],
       "extensions": {
         "website": "https://www.investin.pro/",
         "serumV3Usdc": "AdmfUBJ64BTsjaZdtu1iQHAtxJ4Ge7Zw5bNMsrLGdZu7",
@@ -112,10 +104,7 @@
       "name": "Wrapped Bitcoin (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
@@ -130,10 +119,7 @@
       "name": "Wrapped Ethereum (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
@@ -148,10 +134,7 @@
       "name": "Wrapped YFI (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "7qcCo8jqepnjjvB5swP4Afsr3keVBs6gNpBTNubd1Kr2",
@@ -166,10 +149,7 @@
       "name": "Wrapped Chainlink (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "3hwH1txjJVS8qv588tWrjHfRxdqNjBykM1kMcit484up",
@@ -184,11 +164,7 @@
       "name": "Wrapped USDT (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-      "tags": [
-        "stablecoin",
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["stablecoin", "wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "coingeckoId": "tether"
@@ -201,10 +177,7 @@
       "name": "Wrapped SUSHI (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "website": "https://www.sushi.com",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
@@ -221,10 +194,7 @@
       "name": "Wrapped ALEPH (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "GcoKtAmTy5QyuijXSmJKBtFdt99e6Buza18Js7j9AJ6e",
@@ -239,10 +209,7 @@
       "name": "Wrapped FRONT (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "9Zx1CvxSVdroKMMWf2z8RwrnrLiQZ9VkQ7Ex3syQqdSH",
@@ -257,10 +224,7 @@
       "name": "Wrapped UNI (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "6JYHjaQBx6AtKSSsizDMwozAEDEZ5KBsSUzH7kRjGJon",
@@ -291,10 +255,7 @@
       "name": "Wrapped FTT (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
@@ -311,10 +272,7 @@
       "name": "Wrapped TOMO (Sollet)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd/logo.png",
-      "tags": [
-        "wrapped-sollet",
-        "ethereum"
-      ],
+      "tags": ["wrapped-sollet", "ethereum"],
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "serumV3Usdc": "8BdpjpSD5n3nk8DQLqPUyTZvVqFu6kcff5bzUX5dqDpy",
@@ -392,9 +350,7 @@
       "name": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "website": "https://tether.to/",
         "coingeckoId": "tether",
@@ -437,10 +393,7 @@
       "name": "USD Coin (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FVsXUnbhifqJ4LiXQEbpUtXVdB8T5ADLKqSs5t1oc54F/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
@@ -455,10 +408,7 @@
       "name": "Tether USD (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9w97GdWUYYaamGwdKMKZgGzPduZJkiFizq4rz5CPXRv2/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
@@ -473,9 +423,7 @@
       "name": "Dominican Pesos",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4pk3pf9nJDN1im1kNwWJN1ThjE8pCYCTexXYGyFjqKVf/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "website": "https://Odop.io/"
       }
@@ -499,11 +447,7 @@
       "name": "XCOPE",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3K6rftdAaQYMPunrtNRHgnK2UAtjm2JwyT2oCiTDouYE/logo.png",
-      "tags": [
-        "trading",
-        "index",
-        "Algos"
-      ],
+      "tags": ["trading", "index", "Algos"],
       "extensions": {
         "website": "https://www.unlimitedcope.com/",
         "serumV3Usdc": "7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2",
@@ -517,11 +461,7 @@
       "name": "COPE",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh/logo.png",
-      "tags": [
-        "trading",
-        "index",
-        "Algos"
-      ],
+      "tags": ["trading", "index", "Algos"],
       "extensions": {
         "website": "https://www.unlimitedcope.com/",
         "serumV3Usdc": "6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk",
@@ -550,9 +490,7 @@
       "name": "Media Network",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ETAtLmCmsoiEEKfNrHKJ2kYy3MoABhU6NQvpSfij5tDs/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://media.network/",
         "coingeckoId": "media-network",
@@ -567,9 +505,7 @@
       "name": "Step",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://step.finance/",
         "twitter": "https://twitter.com/StepFinance_",
@@ -614,9 +550,7 @@
       "name": "Star Atlas",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://staratlas.com",
         "description": "Star Atlas Token",
@@ -632,9 +566,7 @@
       "name": "Star Atlas DAO",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://staratlas.com",
         "description": "Star Atlas DAO Token",
@@ -666,11 +598,7 @@
       "name": "ENTROPPP (Entropy for security)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DQRNdQWz5NzbYgknGsZqSSXbdhQWvXSe8S56mrtNAs1b/logo.png",
-      "tags": [
-        "cryptography",
-        "blockchain-security",
-        "randomness-entropy"
-      ],
+      "tags": ["cryptography", "blockchain-security", "randomness-entropy"],
       "extensions": {
         "website": "https://www.entroppp.com"
       }
@@ -696,9 +624,7 @@
       "name": "SolAPE Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "coingeckoId": "solape-token",
         "website": "https://solape.io",
@@ -759,11 +685,7 @@
       "name": "Tulip",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sol-farm/token-logos/main/tulip.png",
-      "tags": [
-        "tulip",
-        "tulip-protocol",
-        "vaults"
-      ],
+      "tags": ["tulip", "tulip-protocol", "vaults"],
       "extensions": {
         "website": "https://tulip.garden",
         "twitter": "https://twitter.com/TulipProtocol",
@@ -779,11 +701,7 @@
       "name": "JPY Coin(Sollet)(Deprecated)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png",
-      "tags": [
-        "stablecoin",
-        "ethereum",
-        "wrapped-sollet"
-      ],
+      "tags": ["stablecoin", "ethereum", "wrapped-sollet"],
       "extensions": {
         "website": "https://jpyc.jp/"
       }
@@ -809,10 +727,7 @@
       "name": "Boring Protocol",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/boringprotocol/brand-assets/main/boplogo.png",
-      "tags": [
-        "security-token",
-        "utility-token"
-      ],
+      "tags": ["security-token", "utility-token"],
       "extensions": {
         "website": "https://boringprotocol.io",
         "twitter": "https://twitter.com/BoringProtocol",
@@ -951,10 +866,7 @@
       "name": "Wrapped HAPI",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6VNKqgz9hk7zRShTFdg5AnkfKwZUcojzwAkzxSH3bnUm/logo.png",
-      "tags": [
-        "wrapped",
-        "utility-token"
-      ],
+      "tags": ["wrapped", "utility-token"],
       "extensions": {
         "website": "https://hapi.one",
         "twitter": "https://twitter.com/i_am_hapi_one",
@@ -1043,10 +955,7 @@
       "name": "PAI (Parrot USD)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS/logo.svg",
-      "tags": [
-        "utility-token",
-        "stablecoin"
-      ],
+      "tags": ["utility-token", "stablecoin"],
       "extensions": {
         "website": "https://parrot.fi",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1063,9 +972,7 @@
       "name": "PRT (Parrot Protocol)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://parrot.fi",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1082,9 +989,7 @@
       "name": "pBTC (Parrot BTC)",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "website": "https://parrot.fi",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1100,9 +1005,7 @@
       "name": "pSOL (Parrot SOL)",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "website": "https://parrot.fi",
         "twitter": "https://twitter.com/gopartyparrot",
@@ -1150,10 +1053,7 @@
       "name": "Lido Wrapped Staked ETH",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZScHuTtqZukUrtZS43teTKGs2VqkKL8k4QCouR2n6Uo/logo.png",
-      "tags": [
-        "stake",
-        "wrapped"
-      ],
+      "tags": ["stake", "wrapped"],
       "extensions": {
         "website": "https://lido.fi/",
         "twitter": "https://twitter.com/LidoFinance",
@@ -1169,9 +1069,7 @@
       "name": "Kurobi",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Kc38rfQ49DFaKHQaWbijkE7fcymUMLY5guUiUsDmFfn/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://kurobi.io/",
         "medium": "https://kurobi.medium.com/",
@@ -1199,9 +1097,7 @@
       "name": "Wrapped USDT (Allbridge from Polygon)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "coingeckoId": "tether"
       }
@@ -1213,9 +1109,7 @@
       "name": "Wrapped USDC (Allbridge from Polygon)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
+      "tags": ["stablecoin"],
       "extensions": {
         "coingeckoId": "usd-coin"
       }
@@ -1227,9 +1121,7 @@
       "name": "Socean staked SOL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/logo.png",
-      "tags": [
-        "stake-pool"
-      ],
+      "tags": ["stake-pool"],
       "extensions": {
         "discord": "https://discord.gg/k8ZcW27bq9",
         "medium": "https://medium.com/@soceanfinance",
@@ -1348,9 +1240,7 @@
       "name": "USD Coin (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png",
-      "tags": [
-        "wrapped"
-      ],
+      "tags": ["wrapped"],
       "extensions": {
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
@@ -1365,9 +1255,7 @@
       "name": "Tether USD (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
-      "tags": [
-        "wrapped"
-      ],
+      "tags": ["wrapped"],
       "extensions": {
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
@@ -1402,9 +1290,7 @@
       "name": "Aurory",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://aurory.io",
         "description": "Aurory Token",
@@ -1418,11 +1304,7 @@
       "name": "GooseFX",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFX1ZjR2P15tmrSwow6FjyDYcEkoFb4p4gJCpLBjaxHD/logo.png",
-      "tags": [
-        "utility-token",
-        "dao",
-        "governance"
-      ],
+      "tags": ["utility-token", "dao", "governance"],
       "extensions": {
         "website": "https://goosefx.io",
         "twitter": "https://twitter.com/GooseFX1",
@@ -1437,10 +1319,7 @@
       "name": "FTT (Wormhole)",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
@@ -1455,10 +1334,7 @@
       "name": "UST (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "uusd",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
@@ -1472,10 +1348,7 @@
       "name": "Wrapped Ether (Wormhole)",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
@@ -1490,10 +1363,7 @@
       "name": "LUNA (Wormhole)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
-      "tags": [
-        "wrapped",
-        "wormhole"
-      ],
+      "tags": ["wrapped", "wormhole"],
       "extensions": {
         "address": "uluna",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
@@ -1507,10 +1377,7 @@
       "name": "Solend",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp/logo.png",
-      "tags": [
-        "solend",
-        "lending"
-      ],
+      "tags": ["solend", "lending"],
       "extensions": {
         "coingeckoId": "solend",
         "twitter": "https://twitter.com/solendprotocol",
@@ -1534,19 +1401,6 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "So11111111111111111111111111111111111111112",
-      "symbol": "SOL",
-      "name": "Wrapped SOL",
-      "decimals": 9,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-      "tags": [],
-      "extensions": {
-        "website": "https://www.solana.com/",
-        "coingeckoId": "solana"
-      }
-    },
-    {
       "chainId": 103,
       "address": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
@@ -1556,7 +1410,8 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "feeAccount": "HtQPrK7eTsBqNH8ViTnoTd7SHxJP9vZGauXau2YP26wt"
     },
     {
       "chainId": 103,
@@ -1568,7 +1423,8 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "feeAccount": "6LDv4bcq8bu3bCQBxkkChkYSpgnGXFrWKe2BRoYtw1Ps"
     },
     {
       "chainId": 103,
@@ -1580,7 +1436,8 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "feeAccount": "4GsVeArrgoVGtb8vo4NUUZNKxn5RdeqCbbjasGWmiF5o"
     },
     {
       "chainId": 103,
@@ -1592,7 +1449,8 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "feeAccount": "BY1TMGPrYfysoCcJ5JU3v14c2jyi3Nfoz3gTwuperiir"
     },
     {
       "chainId": 103,
@@ -1604,7 +1462,8 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "solana"
-      }
+      },
+      "feeAccount": "DFPCuUXksbVtgRRGSufLrQkhZKMLmqwwnsK5ygJ7cFbb"
     },
     {
       "chainId": 103,
@@ -1617,7 +1476,8 @@
       "extensions": {
         "website": "https://1sol.io",
         "twitter": "https://twitter.com/1solProtocol"
-      }
+      },
+      "feeAccount": "G7WePP4z7pKdoDeYV9PW1QELLA34216GniBYTgXYAka4"
     },
     {
       "chainId": 103,
@@ -1630,7 +1490,8 @@
       "extensions": {
         "website": "https://1sol.io",
         "twitter": "https://twitter.com/1solProtocol"
-      }
+      },
+      "feeAccount": "Fohx1JUgoPJ39AaacTn2ikEjuQTE6UwbAbC5ywUtLiQc"
     }
   ],
   "version": {
