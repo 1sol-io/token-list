@@ -51,7 +51,7 @@
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     }
   },
-  "timestamp": "2021-12-04T03:35:06+0000",
+  "timestamp": "2021-12-08T05:22:27+0000",
   "tokens": [
     {
       "chainId": 101,
@@ -5636,6 +5636,163 @@
       ],
       "chainId": 101,
       "feeAccount": "CUM5rroAQwj1CcSmN5RWQRtQ9cuBwkGiFKg1cc1PwcYW"
+    },
+    {
+      "address": "GCxgQbbvJc4UyqGCsUAUa38npzZX27EMxZwckLuWeEkt",
+      "symbol": "NUTS",
+      "name": "NUTS",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/93886730/140664862-6dd80bff-be30-4c68-a978-fcb205011d61.png",
+      "tags": [],
+      "chainId": 101,
+      "feeAccount": "FdKQ78oisMpYnzQ2HHSdHbpmRT7G46Cu2RH7ibu3Kahg"
+    },
+    {
+      "address": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
+      "symbol": "HXRO",
+      "name": "Wrapped HXRO (Sollet)",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc/logo.png",
+      "tags": [
+        "wrapped-sollet",
+        "ethereum"
+      ],
+      "chainId": 101,
+      "feeAccount": "HG3w1zmp77jrV7TncbLmYDQsGLqYA3rTANYdHxGh8boD"
+    },
+    {
+      "address": "5K1JtWpdSksVKaL6R2DuLpCDAjzxK6sq2CpXaXDWHVLg",
+      "symbol": "YORK",
+      "name": "Yorkipoo",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/5K1JtWpdSksVKaL6R2DuLpCDAjzxK6sq2CpXaXDWHVLg/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "social-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "6sFUbPv779XgtNvExKy555KsM9HUB7z8ALGs77cPHemF"
+    },
+    {
+      "address": "G7eETAaUzmsBPKhokZyfbaT4tD9igdZSmfQGEYWem8Sw",
+      "symbol": "EYE",
+      "name": "NftEyez Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/NftEyez/assets/main/assets/eye-coin.png",
+      "tags": [
+        "nfteyez"
+      ],
+      "chainId": 101,
+      "feeAccount": "6ARfL9XRzuT1kUE4N1BR6NH9vxK48a7aTV45wmxhLAzy"
+    },
+    {
+      "address": "6F9XriABHfWhit6zmMUYAQBSy6XK5VF1cHXuW5LDpRtC",
+      "symbol": "RUN",
+      "name": "Run Token",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/6F9XriABHfWhit6zmMUYAQBSy6XK5VF1cHXuW5LDpRtC/RunGear.png",
+      "tags": [
+        "utility-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "BBdo2shD2S4nekA5Mz15xYkr3XkAwAbu4cf88JH8Qpyy"
+    },
+    {
+      "address": "5rFmh8C6Zj1VfL7ogB6PyVDnQkqsayvEPsEbbkUPX8f",
+      "symbol": "SLCAT",
+      "name": "Salad Cat Coin",
+      "decimals": 4,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/5rFmh8C6Zj1VfL7ogB6PyVDnQkqsayvEPsEbbkUPX8f/logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "DtwZM7ifY2VA4cvfWmbePFn53U6i9NT9WMRtsQis7KSv"
+    },
+    {
+      "address": "6xcfmgzPgABAuAfGDhvvLLMfMDur4at7tU7j3NudUviK",
+      "symbol": "FOSSIL",
+      "name": "FOSSIL",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/6xcfmgzPgABAuAfGDhvvLLMfMDur4at7tU7j3NudUviK/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "9FBQuhvm7mCvfFAUCWoPSE22qXgV7fHTzwfNVbhVPQve"
+    },
+    {
+      "address": "E48Ueg1o9avL5s7XBjfLViercSrNSJCvmbZMvnwN873",
+      "symbol": "MCK",
+      "name": "Mickey",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/E48Ueg1o9avL5s7XBjfLViercSrNSJCvmbZMvnwN873/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "4geFkGZgBa2tz31Pjoe5Mmf71Q5g7yQhGj8nnrqN7QA2"
+    },
+    {
+      "address": "FMBfAxhiTwDmujiEGbexFtExHR9q7nqnRF1Rjd5UmhS7",
+      "symbol": "BACON",
+      "name": "BACON tokens",
+      "decimals": 9,
+      "logoURI": "https://zplphm7g437efyuli2psx6tmh4nf7ux6zf3iw65xnk5zjltaomca.arweave.net/y9bzs-bm_kLii0afK_psPxpf0v7Jdot7t2q7lK5gcwQ",
+      "tags": [
+        "utility-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "tV3HhQdrXXUBp5hP6j23UGxNAjcjNtUn6q6hGY7dgd9"
+    },
+    {
+      "address": "3vDfXEw3MZQgjYpLbjoZDYmgVci16CsC6ZDLgUzmcKR2",
+      "symbol": "FLVR",
+      "name": "Flokiverse",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/DaveBane/Flokiverse/Flokiverselogo.png",
+      "tags": [
+        "meme-token",
+        "game-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "5JJdfjUBfcx5t1qiVZrrWp9Bu6XvnydZBRB4skdrPNys"
+    },
+    {
+      "address": "4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda",
+      "symbol": "N2H4",
+      "name": "Hydrazine",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/4q5UBXJxE91BZKX548qhU8i5QBWvZdXzS3RZwfTgLQda/logo.png",
+      "tags": [],
+      "chainId": 101,
+      "feeAccount": "4jeifFqcSvhejZAQJFKGZa3WefZY2BntrGdDavBULVEJ"
+    },
+    {
+      "address": "4D2umdRkmjgsFj4Vf9foJGMkTjNQ41jXaGuAL3xb4dQj",
+      "symbol": "FLX",
+      "name": "Fluxx",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/4D2umdRkmjgsFj4Vf9foJGMkTjNQ41jXaGuAL3xb4dQj/logo.svg",
+      "tags": [
+        "token"
+      ],
+      "chainId": 101,
+      "feeAccount": "BPmNqSDxcfmVVGB6g2Jggv6CSuPT6tut36P66QEJrfYo"
+    },
+    {
+      "address": "EiNEYyUcPHpGt2btoMeuTrLtsAeayY74ECvPRYzcdPpo",
+      "symbol": "ROYALE",
+      "name": "Royale token",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/EiNEYyUcPHpGt2btoMeuTrLtsAeayY74ECvPRYzcdPpo/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "chainId": 101,
+      "feeAccount": "2wbU7uFhNs71N6D4dWBajr4ZtYJXJ9hjoKnPJArrSmj5"
     },
     {
       "chainId": 103,
