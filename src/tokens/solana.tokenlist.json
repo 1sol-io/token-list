@@ -5795,6 +5795,20 @@
       "feeAccount": "2wbU7uFhNs71N6D4dWBajr4ZtYJXJ9hjoKnPJArrSmj5"
     },
     {
+      "address": "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF",
+      "symbol": "1SOL",
+      "name": "1sol.io Token",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/logo.png",
+      "tags": [
+        "wrapped",
+        "utility-token",
+        "aggregator"
+      ],
+      "chainId": 101,
+      "feeAccount": "2h2Z8YkECHyDKamQt6B7hTqX6m8ANV3pwSa2CjYsss5x"
+    },
+    {
       "chainId": 103,
       "address": "So11111111111111111111111111111111111111112",
       "symbol": "SOL",
